@@ -1,6 +1,5 @@
 *.pyc
 __pycache__/
-*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
